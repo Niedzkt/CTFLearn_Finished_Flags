@@ -1,0 +1,1 @@
+find admin credential at site and after that use curl. Simple
